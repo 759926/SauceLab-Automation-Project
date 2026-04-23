@@ -1,0 +1,7 @@
+selenium
+pytest
+pytest-xdist
+pytest-metadata
+pytest-html
+allure-pytest
+configparser
